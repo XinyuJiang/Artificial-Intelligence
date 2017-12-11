@@ -1,6 +1,6 @@
 # CS188
 UCB CS188(autumn 2017)
 Artificial Intelligence
-PartI: Search and Planning
-PartII: : Probabilistic Reasoning
-PartIII : Machine Learning
+Part I: Search and Planning
+Part II: : Probabilistic Reasoning
+Part III : Machine Learning
